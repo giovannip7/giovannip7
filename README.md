@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @giovannip7
 - 👀 I’m interested in mobile robots, computer vision, deep neural networks and stuff like that
-- 🌱 I’m currently learning how to master ROS with no harm to myself.
-- 💞️ I’m looking to collaborate on everything basically
+- 🌱 I’m currently learning.
+- 💞️ 
 - 📫 How to reach me: e-mail: giovanniporcellato7@gmail.com
 
 <!---
